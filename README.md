@@ -13,6 +13,17 @@ The entire workflow was implemented end-to-end using Microsoft Power BI.
 
 ---
 
+
+## 📈 Dashboard Preview
+
+### System Architecture
+![System Architecture](images/system_architecture.png)
+
+### Executive Dashboard
+![Dashboard Overview](images/dashboard_preview.png)
+
+---
+
 ## 🎯 Business Problem
 
 An EdTech startup requires clear visibility into:
@@ -34,7 +45,7 @@ The challenge was to transform raw structured data into meaningful insights usin
 - Columns: [Add number]  
 - Key Fields: Revenue, Date, Category, Region, Performance Metrics  
 
-Dataset available in the `/data` folder.
+Dataset available in the `/dataset` folder.
 
 ---
 
@@ -59,22 +70,14 @@ Data Sources
 
 ---
 
-## 📈 Dashboard Preview
-
-### System Architecture
-![System Architecture](images/system_architecture.png)
-
-### Executive Dashboard
-![Dashboard Overview](images/dashboard_preview.png)
-
----
 
 ## 📂 Project Structure
 
-- Dataset → `/data`  
+- Dataset → `/dataset`  
 - Power BI Dashboard (.pbix) → `/dashboard`  
-- Presentation Slides → `/presentation`  
-- Screenshots → `/screenshots`  
+- Presentation Slides → `/ppt`  
+- Screenshots → `/images`
+- problem_statement → `/project-problem-statement` 
 
 ---
 
