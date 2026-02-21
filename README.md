@@ -62,7 +62,7 @@ Data Sources
 ## 📈 Dashboard Preview
 
 ### Executive Dashboard
-![Dashboard Overview](screenshots/dashboard_overview.png)
+![Dashboard Overview](images/dashboard_preview.png)
 
 ### KPI & Trend Analysis
 ![KPI Section](screenshots/kpi_section.png)
