@@ -97,3 +97,16 @@ Data Sources
 - Delivered actionable insights for startup-level decision-making  
 
 ---
+
+## 🔗 Important Links  
+
+- 📖 **Medium Blog (Detailed Project Explanation)**  
+  [Read the full case study here](YOUR_MEDIUM_LINK_HERE)
+
+- 📊 **Project Presentation Dashboard (PPT Slides)**  
+  [View presentation slides](https://app.powerbi.com/groups/c88d086c-1e62-49ca-9ba7-ff16754de188/reports/4ec20c55-6a44-4ba6-8a0f-86444bbd2e36/5c2d0e6bd499a871d892?bookmarkGuid=e8bd5879-0e85-4700-995b-b7a95d81bca4&bookmarkUsage=1&ctid=b4012cd7-7791-4c20-8e7a-22f250b50d7a&portalSessionId=0a089990-d6c0-4597-89d7-409bffda3c51&fromEntryPoint=export)
+
+- 🎥 **YouTube Walkthrough (Dashboard Demo & Explanation)**  
+  [Watch the full project demo](YOUR_YOUTUBE_LINK_HERE)
+
+---
