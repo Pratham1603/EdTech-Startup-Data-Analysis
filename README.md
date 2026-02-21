@@ -61,11 +61,11 @@ Data Sources
 
 ## 📈 Dashboard Preview
 
+### System Architecture
+![System Architecture](images/system_architecture.png)
+
 ### Executive Dashboard
 ![Dashboard Overview](images/dashboard_preview.png)
-
-### KPI & Trend Analysis
-![KPI Section](screenshots/kpi_section.png)
 
 ---
 
