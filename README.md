@@ -17,7 +17,7 @@ The entire workflow was implemented end-to-end using Microsoft Power BI.
 ## 📈 Dashboard Preview
 
 ### System Architecture
-![System Architecture](images/system_architecture.png)
+![System Architecture](images/system_architecture1.png)
 
 ### Executive Dashboard
 ![Dashboard Overview](images/dashboard_preview.png)
