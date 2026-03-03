@@ -1,5 +1,5 @@
-# End-to-End Power BI Data Analysis Project  
-## EdTech Startup Business Analytics Dashboard
+ <h1 align="center">End-to-End Power BI Data Analysis Project</h1>
+ <h2 align="center">EdTech Startup Business Analytics Dashboard</h2>
 
 ---
 
