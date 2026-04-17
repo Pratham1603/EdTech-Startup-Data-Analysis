@@ -1,4 +1,10 @@
- <h1 align="center">End-to-End Power BI Data Analysis Project</h1>
+<p align="center">
+  <img src="images/power.jpg" alt="header" width="1000"/>
+</p>
+
+
+---
+
  <h2 align="center">EdTech Startup Business Analytics Dashboard</h2>
 
 ---
